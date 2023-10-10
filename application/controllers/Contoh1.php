@@ -8,5 +8,7 @@ class Contoh1 extends CI_Controller
             Saya tingga di daerah Ciputat
             olah raga yang saya sukai adalah
             Bulutangkis";
+            //add contoh1.php
+            
     }
 }
